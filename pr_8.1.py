@@ -1,0 +1,1 @@
+print("Kaige pytsi mai viitsi!!!")
